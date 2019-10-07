@@ -350,36 +350,6 @@
         </a>
         <ul class="nav nav-treeview">
           <li class="nav-item">
-            <a href="{{url('/')}}/examples/login" class="nav-link">
-              <i class="far fa-circle nav-icon"></i>
-              <p>Login</p>
-            </a>
-          </li>
-          <li class="nav-item">
-            <a href="{{url('/')}}/examples/register" class="nav-link">
-              <i class="far fa-circle nav-icon"></i>
-              <p>Register</p>
-            </a>
-          </li>
-          <li class="nav-item">
-            <a href="{{url('/')}}/examples/lockscreen" class="nav-link">
-              <i class="far fa-circle nav-icon"></i>
-              <p>Lockscreen</p>
-            </a>
-          </li>
-          <li class="nav-item">
-            <a href="{{url('/')}}/examples/legacy-user-menu" class="nav-link">
-              <i class="far fa-circle nav-icon"></i>
-              <p>Legacy User Menu</p>
-            </a>
-          </li>
-          <li class="nav-item">
-            <a href="{{url('/')}}/examples/language-menu" class="nav-link">
-              <i class="far fa-circle nav-icon"></i>
-              <p>Language Menu</p>
-            </a>
-          </li>
-          <li class="nav-item">
             <a href="{{url('/')}}/examples/404" class="nav-link">
               <i class="far fa-circle nav-icon"></i>
               <p>Error 404</p>
@@ -401,12 +371,6 @@
             <a href="{{url('/')}}/examples/blank" class="nav-link">
               <i class="far fa-circle nav-icon"></i>
               <p>Blank Page</p>
-            </a>
-          </li>
-          <li class="nav-item">
-            <a href="starter" class="nav-link">
-              <i class="far fa-circle nav-icon"></i>
-              <p>Starter Page</p>
             </a>
           </li>
         </ul>
